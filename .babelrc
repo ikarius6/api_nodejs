@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    ["babel-root-import", {
+      "rootPathPrefix": "@"
+    }],
+    "babel-plugin-transform-decorators-legacy"
+  ]
+}
